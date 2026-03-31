@@ -2,6 +2,6 @@
 Reusable source package for DeepLense GSOC experiments.
 """
 
-from . import losses, models, utils
+from . import losses, masking, models, utils
 
-__all__ = ["losses", "models", "utils"]
+__all__ = ["losses", "masking", "models", "utils"]
