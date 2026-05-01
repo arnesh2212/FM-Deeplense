@@ -1,4 +1,4 @@
-# GSOC 2025 — DeepLense | ML4SCI
+# GSOC 2026 — DeepLense | ML4SCI
 
 > Applying state-of-the-art deep learning to gravitational lensing image analysis for the [ML4SCI](https://ml4sci.org/) organization.
 
